@@ -1,0 +1,12 @@
+.chart div {
+  font: 12px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 10px;
+  margin: 3px;
+  color: white;
+}
+
+.chart div:hover {
+  background-color: red;
+}
